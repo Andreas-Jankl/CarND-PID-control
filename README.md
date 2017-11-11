@@ -1,6 +1,8 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
+Implement a PID controller in C++
+
 ---
 
 ## Review
