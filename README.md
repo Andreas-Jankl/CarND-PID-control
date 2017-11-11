@@ -1,7 +1,7 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
-Implement a PID in C++ that can navigate a car safely around the track of the simulator given.
+Implement a PID in C++ that can navigate a car safely around the track of the simulator given here: https://github.com/udacity/self-driving-car-sim
 
 ---
 
